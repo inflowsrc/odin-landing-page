@@ -1,1 +1,2 @@
 # odin-landing-page
+Upon completion of this project, I hope to demonstrate my ability to create a webpage from scratch by following a given design. I also intend to customize the webpage and add some content.
