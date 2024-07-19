@@ -109,3 +109,32 @@ button {
 .info-card p {
     margin: 0;
 }
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+
+.quote-section blockquote,
+.blockquote-author {
+    color: #1f2937;
+}
+
+.quote-section blockquote {
+    font-size: 36px;
+    font-style: italic;
+    width: 42%;
+    margin-bottom: 0;
+}
+
+.blockquote-author {
+    align-self: flex-end;
+    margin-right: 32%;
+    font-size: 24px;
+    font-weight: 600;
+}
