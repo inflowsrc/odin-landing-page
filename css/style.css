@@ -138,3 +138,41 @@ button {
     font-size: 24px;
     font-weight: 600;
 }
+
+.call-to-action-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+
+.call-to-action-box {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 6px;
+    padding: 48px 148px;
+    gap: 128px;
+    font-weight: 600;
+}
+
+.call-to-action-text {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.call-to-action-subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.call-to-action-box button {
+    margin: 0;
+    height: 32px;
+    padding: 4px 42px;
+    border: 2px solid white;
+    border-radius: 6px;
+    color: white;
+    font-weight: 700;
+    align-self: center;
+}
